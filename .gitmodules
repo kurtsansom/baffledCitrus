@@ -1,0 +1,3 @@
+[submodule "re2c"]
+	path = re2c
+	url = git@github.com:kurtsansom/re2c.git
